@@ -1,6 +1,6 @@
 # OnePunchMan Manga Crawler 📖
 ## Description
-A small Java project aims at providing a free (open source) manga crawler for wibu
+A small Java project aims at providing a free (open source) manga crawler for wibu.
 
 ## Information 🏷
 - __IDE:__ _IntelliJ IDEA Ultimate Edition_
