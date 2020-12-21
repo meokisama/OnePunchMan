@@ -1,4 +1,4 @@
-# OnePunchMan Manga Crawler 📖
+# Manga Crawler 📖
 ## Description
 A small Java project aims at providing a free (open source) manga crawler for wibu.
 
