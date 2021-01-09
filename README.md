@@ -1,4 +1,20 @@
-# Manga Crawler 📖
+<p align="center">
+  <a href="https://meokisama.github.io">
+    <img src="https://raw.githubusercontent.com/meokisama/lightboxgallery/master/images/favicon.png" />
+  </a>
+</p>
+
+<h1 align="center"> Manga Crawler 📖 </h1>
+<p align="center">
+  <a href="https://github.com/meokisama/meokisama.github.io/blob/develop/LICENSE">
+    <img src="https://img.shields.io/badge/license-UNLICENSE-blue.svg"/>
+  </a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
+  <a href="https://twitter.com/intent/follow?screen_name=meokiiii">
+    <img src="https://img.shields.io/twitter/follow/meokiiii.svg?label=Follow%20@meokiiii"/>
+  </a>
+</p>
+
 ## Description
 A small Java project aims at providing a free (open source) manga crawler for wibu.
 
